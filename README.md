@@ -1,6 +1,4 @@
-# South Adelaide Beauty & Education - Course Purchasing & Learning Online
-
-## Monash University - FIT3048 - S2 2024 - Team009 - Arasaka
+# South Adelaide Beauty & Education - Online beauty course purchasing & learning system
 
 **Website**: [SouthAdelaideBeautyAndEducation](https://www.southadelaidebeautyandeducation.com.au/)
 
